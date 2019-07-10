@@ -1,0 +1,12 @@
+cmd/artifactory-perceiver/artifactory-perceiver
+cmd/quay-perceiver/quay-perceiver
+<<<<<<< HEAD
+cmd/artifactory-perceiver/opssight-artifactory-processor
+cmd/quay-perceiver/opssight-quay-processor
+=======
+>>>>>>> 6373d3bb... New Artifactory & Quay Perceivers (#91)
+cmd/artifactory-perceiver/example.json
+cmd/artifactory-perceiver/external-hub.json
+cmd/artifactory-perceiver/securedRegistries.json
+go.mod
+go.sum
